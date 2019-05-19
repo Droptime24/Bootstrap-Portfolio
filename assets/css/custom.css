@@ -2,9 +2,9 @@
     box-sizing: border-box;
 }
 
-.background-image {
-    background-image: url('/assets/images/concrete-texture.png');
+body{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width: 100%;
     margin: 0 auto;
 }
 
